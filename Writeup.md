@@ -18,6 +18,7 @@ Exploratory data analysis techniques are used to clean the data and form a prope
 
 ## Tools 
 
+* Sqlite for data ingestion
 * Pandas for data manipulation.
 * Matplotlib and Seaborn for plotting. 
 
